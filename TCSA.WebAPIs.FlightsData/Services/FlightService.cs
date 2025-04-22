@@ -14,12 +14,27 @@ public class FlightService : IFlightService
         }
     public Flight CreateFlight(Flight flight)
         {
-        throw new NotImplementedException();
+        var savedFlight = dbContext.Flights.Add(flight);
+
+        dbContext.SaveChanges();
+
+        return savedFlight.Entity;
         }
 
     public string? DeleteFlight(int Id)
         {
-        throw new NotImplementedException();
+        Flight? savedFlight = dbContext.Flights.Find(Id);
+
+        if (savedFlight != null)
+            {
+            return null;
+            }
+
+        dbContext.Flights.Remove(savedFlight);
+
+        dbContext.SaveChanges();
+
+        return $"Successfully flight with ID:{Id}";
         }
 
     public List<Flight> GetAllFlights()
@@ -34,7 +49,22 @@ public class FlightService : IFlightService
 
     public Flight? UpdateFlight(int Id, Flight updatedFlight)
         {
-        throw new NotImplementedException();
+        Flight savedFlight = dbContext.Flights.Find(Id);
+
+        if (savedFlight != null)
+            {
+            return null;
+            }
+        savedFlight.Id = updatedFlight.Id;
+        savedFlight.AirlineName = updatedFlight.AirlineName;
+        savedFlight.DepartureAirportCode = updatedFlight.DepartureAirportCode;
+        savedFlight.DepartureDateTime = updatedFlight.DepartureDateTime;
+        savedFlight.ArrivalDateTime = updatedFlight.ArrivalDateTime;
+        savedFlight.PassengerCapacity = updatedFlight.PassengerCapacity;
+
+        dbContext.SaveChanges();
+
+        return savedFlight;
         }
     }
 

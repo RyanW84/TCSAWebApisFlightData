@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TCSA.WebAPIs.FlightsData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+896aabdbf057f5f7b4d8ee8c831e8d308baa620c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eae73ad34f91e6899d8f0f08e3f9f138437b1b10")]
 [assembly: System.Reflection.AssemblyProductAttribute("TCSA.WebAPIs.FlightsData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TCSA.WebAPIs.FlightsData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
