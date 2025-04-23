@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("TCSA.WebAPIs.FlightsData")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f2de3be1526daa8bf46f21781b10f5e411f55e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TCSA.WebAPIs.FlightsData")]

@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\tcsa.webapis.flightsdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:tcsa.webapis.flightsdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\data\\migrations\\20250422194741_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:data\\migrations\\20250422194741_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\data\\flightsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:data\\flightsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42853C08-AF6C-40D7-AD1E-087BB74699B4}|TCSA.WebAPIs.FlightsData.csproj|c:\\users\\ryanw\\onedrive\\documents\\github\\tcsa flights\\tcsawebapisflightdata\\tcsa.webapis.flightsdata\\tcsa.webapis.flightsdata.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -54,81 +54,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FlightController.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Controllers\\FlightController.cs",
               "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Controllers\\FlightController.cs",
               "RelativeToolTip": "Controllers\\FlightController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T20:28:24.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FlightService.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Services\\FlightService.cs",
               "RelativeDocumentMoniker": "Services\\FlightService.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Services\\FlightService.cs",
               "RelativeToolTip": "Services\\FlightService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T19:57:45.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IFlightService.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Services\\IFlightService.cs",
               "RelativeDocumentMoniker": "Services\\IFlightService.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Services\\IFlightService.cs",
               "RelativeToolTip": "Services\\IFlightService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T19:52:53.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TCSA.WebAPIs.FlightsData.csproj",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\TCSA.WebAPIs.FlightsData.csproj",
               "RelativeDocumentMoniker": "TCSA.WebAPIs.FlightsData.csproj",
@@ -152,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "20250422194741_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Data\\Migrations\\20250422194741_InitialCreate.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250422194741_InitialCreate.cs",
@@ -164,32 +132,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "FlightsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Data\\FlightsDbContext.cs",
               "RelativeDocumentMoniker": "Data\\FlightsDbContext.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Data\\FlightsDbContext.cs",
               "RelativeToolTip": "Data\\FlightsDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T12:37:48.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:06:43.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T20:06:43.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Documents\\GitHub\\TCSA Flights\\TCSAWebApisFlightData\\TCSA.WebAPIs.FlightsData\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -222,16 +189,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-10T20:07:05.254Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 47,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
